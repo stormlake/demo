@@ -1,0 +1,2 @@
+days = int(input("Enter the days:"))
+    print("Months = {} Days = {}".format(*divmod(days,30)))
